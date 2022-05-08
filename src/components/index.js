@@ -8,3 +8,6 @@
  *   Footer,
  * };
  */
+ import TlCenterView from './Views/TlCenter';
+
+ export { TlCenterView };
